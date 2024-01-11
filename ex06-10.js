@@ -1,6 +1,6 @@
-function gazochange1(){
+function imgchange1(){
   document.getElementByld('neko').src='./image/kuruma.jpg';
 }
-function gazochange2(){
+function imgchange2(){
   document.getElementByld('neko').src='./image/neko.jpg';
 }
