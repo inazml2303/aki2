@@ -1,6 +1,6 @@
 function imgchange3() {
-    document.getElementById('josai').src = './image/josai3.svg';
+    document.getElementById('josai').src = './image/josai2.svg';
 }
 function imgchange4() {
-    document.getElementById('josai').src = './image/josai2.jpg';
+    document.getElementById('josai').src = './image/josai.jpg';
 }
