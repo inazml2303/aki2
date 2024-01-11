@@ -1,6 +1,6 @@
-function imgchange3() {
+function imagechange1() {
     document.getElementById('josai').src = './image/josai2.png';
 }
-function imgchange4() {
+function imagechange2() {
     document.getElementById('josai').src = './image/josai.jpg';
 }
